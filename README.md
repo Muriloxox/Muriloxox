@@ -5,21 +5,15 @@
 </div>
 
 <div>
-  -> Fazendo a tal da Engenharia (De controle e Automaação)
+  -> Fazendo a tal da Engenharia (De controle e Automação)
 </div>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Muriloxox&show_icons=true&theme=calm"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Muriloxox&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Muriloxox&show_icons=true" />
-</picture>
-
+<a href="https://github.com/Muriloxox/github-readme-stats">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Muriloxox&theme=calm" />
+</a>
+<a href="https://github.com/Muriloxox/convoychat">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Muriloxox&layout=compact&langs_count=8&card_width=180&theme=calm" />
+</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
