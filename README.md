@@ -1,4 +1,12 @@
-## Opa, bão? Sou o Murilox!
+## Opa, bão? Sou o Murilox.
+
+<div>
+  Sim amigo, sou programador 🤓 Me especializo nas linguagens 💻 PEITON, XANASCRIPT e PL/SQL (PERERECAS LARGAS, SO QUERO LAMBER) 🥵 🥴
+</div>
+
+<div>
+  -> Fazendo a tal da Engenharia (De controle e Automaação)
+</div>
 
 <picture>
   <source
