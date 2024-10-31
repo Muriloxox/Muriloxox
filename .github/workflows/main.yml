@@ -1,4 +1,4 @@
-name: generate animation
+name: Generate Animation
 
 on:
   schedule:
@@ -10,21 +10,17 @@ on:
 
 jobs:
   generate:
-    permissions: 
-      contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
     steps:
-
       - name: Generate GitHub Contribution Grid Snake
         uses: platane/snk@v2
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: Muriloxox
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-  
+
+
       - name: Create dist directory
         run: mkdir -p dist
 
