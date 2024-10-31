@@ -16,7 +16,7 @@ jobs:
     steps:
 
       - name: Generate GitHub Contribution Grid Snake
-        uses: platane/snk@latest
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.actor }} 
           outputs: |
