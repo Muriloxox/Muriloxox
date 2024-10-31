@@ -18,6 +18,10 @@ jobs:
     timeout-minutes: 5
     
     steps:
+    
+      - name: Install dependencies
+        run: npm install canvas 
+    
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
