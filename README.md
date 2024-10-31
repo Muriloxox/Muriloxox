@@ -8,6 +8,8 @@
   -> Fazendo a tal da Engenharia (De controle e Automação)
 </div>
 
+---
+
 <a href="https://github.com/Muriloxox/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Muriloxox&theme=calm" />
 </a>
