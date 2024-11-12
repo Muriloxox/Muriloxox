@@ -4,7 +4,7 @@
   Sim amigo, sou programador 🤓 Me especializo nas linguagens 💻 PEITON, XANASCRIPT e PL/SQL (PERERECAS LARGAS, SO QUERO LAMBER) 🥵 🥴
 </div>
 
-### Fazendo a tal da Engenharia (De Controle e Automação), mas também sou:
+### Fazendo a tal da Engenharia (De Controle e Automação), mas sou:
 
 - Provador de caixão
 - Enxugador de gelo
