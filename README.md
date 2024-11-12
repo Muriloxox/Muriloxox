@@ -6,6 +6,10 @@
 
 <div>
   -> Fazendo a tal da Engenharia (De controle e Automação)
+  - Provador de caixão               - Enxugador de Gelo
+  - Garçon                           - Animador de Velório
+  - Vaqueiro                         - Engraxate 
+  - Faço gelo no sol                 - Casqueador de Cavalo
 </div>
 
 ---
