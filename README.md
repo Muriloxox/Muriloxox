@@ -4,7 +4,7 @@
   Sim amigo, sou programador 🤓 Me especializo nas linguagens 💻 PEITON, XANASCRIPT e PL/SQL (PERERECAS LARGAS, SO QUERO LAMBER) 🥵 🥴
 </div>
 
-# Fazendo a tal da Engenharia (De Controle e Automação)
+### Fazendo a tal da Engenharia (De Controle e Automação), mas também sou:
 
 - Provador de caixão
 - Enxugador de gelo
@@ -14,7 +14,8 @@
 - Engraxate
 - Faço gelo no sol
 - Casqueador de cavalo
-
+- Medidor de ângulo reto
+- Suavizador de asfalto
 ---
 
 <a href="https://github.com/Muriloxox/github-readme-stats">
