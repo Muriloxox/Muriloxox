@@ -15,10 +15,10 @@
 ---
 
 <a href="https://github.com/Muriloxox/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Muriloxox" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Muriloxox&theme=dark" />
 </a>
 <a href="https://github.com/Muriloxox/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Muriloxox&layout=compact&langs_count=8&card_width=180" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Muriloxox&layout=compact&langs_count=8&card_width=180&theme=dark" />
 </a>
 
 <div style="display: inline_block"><br>
