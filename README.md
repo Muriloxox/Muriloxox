@@ -14,15 +14,6 @@
 - Suavizador de asfalto
 ---
 
-<a href="https://github.com/Muriloxox/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Muriloxox&theme=dark" />
-</a>
-<a href="https://github.com/Muriloxox/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Muriloxox&layout=compact&langs_count=8&card_width=180&theme=dark" />
-</a>
-  
-  ##
- 
 <div> 
   <a href="https://www.instagram.com/murilo_quartz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "murilox.quartz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
